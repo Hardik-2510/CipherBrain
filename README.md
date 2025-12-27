@@ -6,6 +6,7 @@ The project is intended for **educational purposes** to understand basic cryptog
 ---
 
 ## ✨ Features
+
 - Text encryption using a key
 - GCD-based reversible logic
 - Simple Encode / Decode interface
